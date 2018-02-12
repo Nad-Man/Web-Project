@@ -1,0 +1,18 @@
+body {
+	padding-top: 70px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.jumbotron {
+	color: #2c3e50;
+	background-image: url(http://houseoftrinity.co.uk/wp-content/uploads/2016/03/hair-banner-1-e1458138052744.jpg);
+    background-size: 100% 100%;
+}
+
+.navbar-inverse {
+	background-color: #545556;
+}
+
+.navbar-inverse .navbar-brand {
+	color: #047cf4;
+}
